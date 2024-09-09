@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bullet
+  - TrapGai
+  - Drill
+  - EnemyFly
+  - Coin
+  - heath
+  - BulletOfTower
+  - Suriken
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - TrapGai
+  - Ladder
+  - Player
+  - Background
+  - Door
+  - Drill
+  - Drop
+  - EnemyFly
+  - BulletOfTower
+  - Boss
+  - Suriken
+  - BulletOfEnemy
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1097713071
+    locked: 0
+  - name: Ground
+    uniqueID: 3526953041
+    locked: 0
+  - name: Ladder
+    uniqueID: 1607230795
+    locked: 0
+  - name: TrapGai
+    uniqueID: 533497765
+    locked: 0
+  - name: Heath
+    uniqueID: 683685745
+    locked: 0
+  - name: coin
+    uniqueID: 2973171615
+    locked: 0
+  - name: Enemy
+    uniqueID: 2223779761
+    locked: 0
+  - name: Suriken
+    uniqueID: 2121854791
+    locked: 0
+  - name: EnemyFly
+    uniqueID: 1171809953
+    locked: 0
+  - name: Boss
+    uniqueID: 1759222321
+    locked: 0
+  - name: Bullet
+    uniqueID: 2064294755
+    locked: 0
+  - name: Player
+    uniqueID: 783715553
+    locked: 0
+  - name: Door
+    uniqueID: 2678188169
+    locked: 0
+  - name: Drill
+    uniqueID: 314845215
+    locked: 0
+  - name: towerShoot
+    uniqueID: 94417047
+    locked: 0
+  - name: bulletOftowerShoot
+    uniqueID: 1573906957
+    locked: 0
+  - name: Effect
+    uniqueID: 2489060033
+    locked: 0
